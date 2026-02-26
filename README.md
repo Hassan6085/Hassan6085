@@ -1,40 +1,43 @@
 # Hi there, I'm Hassan! 👋
 
-I am a BSIT graduate (CGPA: 3.16) and a practical, AI-assisted software developer. 
+I am a recent BSIT graduate (CGPA: 3.16) and an enthusiastic software developer. I love exploring different technologies and bringing ideas to life through practical, working projects.
 
-My development approach is focused on **System Integration and End-to-End Workflows**. I don't memorize syntax or code from scratch. Instead, I leverage AI tools to generate code, and my real expertise lies in piecing those blocks together. I know exactly how to structure project files, which libraries are needed for specific tasks, and how to orchestrate different modules so the final software runs flawlessly. If an error occurs, I effectively debug and resolve it using AI. 
+As a growing developer, I take a modern and practical approach to coding. I actively use AI tools to help write and debug code, which allows me to focus on how things connect together. My main strength is taking different pieces—like APIs, databases, and user interfaces—and integrating them so the final software runs perfectly. I might not memorize every line of syntax, but I know how to structure files, fix errors, and get the job done.
 
-### 🚀 Core Competencies
-* **AI-Assisted Development:** Utilizing AI for rapid code generation, error fixing, and logic implementation.
-* **System Architecture:** Managing complex file structures and ensuring smooth data flow across entire applications.
-* **UI/UX Desktop Apps:** Building functional desktop applications using PyQt6, HTML, CSS, JS, and Eel.
-* **API Integration & Automation:** Connecting third-party APIs (Gemini, Pexels, YouTube Data) and automating workflows.
+### 🌱 What I Do Best
+* **Practical Development:** Using AI assistants to quickly generate code, understand logic, and resolve bugs.
+* **Project Integration:** Connecting third-party APIs (Gemini, Pexels, YouTube) and linking front-end interfaces with back-end logic.
+* **Building UIs:** Creating functional desktop and web applications using PyQt6, HTML, CSS, JS, and Eel.
+* **Eager to Learn:** Always experimenting with new domains, from hardware (IoT) to automation bots.
 
 ### 💻 My Projects Portfolio
 
-**AI & Automation Software**
-* **Next-Gen AI Video Agent:** Desktop app (Eel UI) using Python, Gemini API for scripts, Kokoro TTS for voiceovers, Stable Diffusion for images, and Moviepy for video composing.
-* **Twitter Auto Reply Bot:** PyQt6 desktop app that replies to keywords on recent posts (350 replies/24h) without API keys, using Selenium and Stealth Chrome.
-* **YouTube Auto Shorts Bot:** PyQt6 app that fetches YouTube videos via API, cuts 3-7 second clips, and concatenates them into 4K shorts. Also creates videos from images using Pexels API.
+**AI & Automation Projects**
+* **Next-Gen AI Video Agent:** Desktop app (Eel UI) using Python. Integrates Gemini API for scripts, Kokoro TTS for voice, Stable Diffusion for images, and Moviepy to compose the final video.
+* **Twitter Auto Reply Bot:** PyQt6 desktop app that replies to keywords on recent posts automatically using Selenium and Stealth Chrome.
+* **YouTube Auto Shorts Bot:** PyQt6 app that fetches YouTube videos via API, cuts 3-7 second clips, and concatenates them into shorts. Also creates videos from Pexels images.
 * **Next-Gen TTS:** PyQt6 app running the Xttv2 model locally from Hugging Face for voice cloning.
-* **Video Downloader, Splitter & Audio Extractor:** PyQt6 desktop utility to download, chunk, and extract audio from videos.
-* **Korotts:** Deployed live on Hugging Face.
+* **Video Downloader, Splitter & Audio Extractor:** A handy PyQt6 desktop utility to download, chunk, and extract audio from videos.
+* **Korotts:** A project deployed live on Hugging Face.
 
 **Management Systems & Web Development**
-* **School Fee Management System:** PyQt6 app with SQLite3, Google Drive backup, role-based access, multi-campus/class management, and dynamic fee/discount handling.
-* **Shipment Company Backend:** Partially deployed on VPS. Uses Python, Raspberry Pi (2 cameras for scanning/activity recording), AWS S3, Firebase Firestore, and APIs for Super Admin, Merchant, Home Owner, and Driver apps.
+* **School Fee Management System:** PyQt6 app with a SQLite3 database, Google Drive backup, role-based access, and dynamic fee management for multiple campuses.
+* **Shipment Company Backend:** A partially deployed backend on a VPS. Uses Python, Raspberry Pi cameras, AWS S3, and Firebase to connect apps for admins, merchants, and drivers.
 * **My Own Portfolio:** Built with Next.js, connected to MongoDB, and deployed live on Vercel.
-* **Shopping Store:** HTML, CSS, PHP, and MySQL database setup with login/signup, admin panel, and dummy checkout.
-* **Static Advertisement Websites:** Developed using HTML, CSS, JavaScript, and React.js.
-* **Chat Bot:** Built using PHP, HTML, CSS, and JavaScript.
+* **Shopping Store:** HTML, CSS, PHP, and MySQL setup featuring login, admin panel, and a dummy checkout.
+* **Static Advertisement Websites:** Developed basic front-end sites using HTML, CSS, JavaScript, and React.js.
+* **Chat Bot:** A simple chatbot built using PHP, HTML, CSS, and JavaScript.
 
-**Hardware, IoT & Mobile Applications**
-* **Auto Pet Feeder:** Built with ESP32, Servo motor, Blynk cloud, and a mobile app for remote WiFi control.
-* **Mobile Driving App:** Built in Flutter (Android Studio) featuring a dummy map and JSON server.
-* **Sugarcane Disease Detection App:** Flutter app with dummy authentication and integrated detection model.
-* **Rubber Ducky (Raspberry Pi Pico W):** Converted Rubber Ducky scripts to run via Arduino IDE on a Pico W.
+**Hardware, IoT & Mobile Apps**
+* **Auto Pet Feeder:** An IoT project built with an ESP32, Servo motor, and Blynk cloud, controllable via a mobile app over WiFi.
+* **Mobile Driving App:** A Flutter (Android Studio) app featuring a dummy map and JSON server integration.
+* **Sugarcane Disease Detection App:** A Flutter application integrating an AI detection model with dummy authentication.
+* **Rubber Ducky (Pico W):** Converted Rubber Ducky scripts to run via the Arduino IDE on a Raspberry Pi Pico W.
 
-**Cybersecurity, Networking & Machine Learning**
-* **Brixia Dataset Model:** Trained model for COVID-19 heatmap and Grad-CAM visualization.
-* **WhatsApp Web QR Phishing Page:** Custom page that captures QR logins to automate bot messaging (Educational/PoC).
-* **Windows Server & Linux:** Experience with DHCP, Active Directory, DNS, File Sharing Server. Familiar with Kali Linux (Nmap, Setoolkit, Wireshark) and mid-level Cisco Packet Tracer.
+**Networking & Machine Learning Basics**
+* **Brixia Dataset Model:** Trained a basic model for COVID-19 heatmaps using Grad-CAM.
+* **WhatsApp Web QR Phishing Page:** An educational/PoC custom page that captures QR logins to automate bot messaging.
+* **Windows Server & Linux:** Basic experience with DHCP, Active Directory, DNS, and File Sharing. Familiar with Kali Linux tools (Nmap, Wireshark) and Cisco Packet Tracer.
+
+---
+📫 **Always excited to learn, build new things, and collaborate on interesting projects!**
