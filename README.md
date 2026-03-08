@@ -1,39 +1,64 @@
 # Hi there, I'm Hassan! 👋
 
-I'm a Software Engineer with a strong foundation in Information Technology (BSIT) and a passion for building functional, end-to-end applications. 
+I'm a **BSIT graduate** (CGPA: 3.16) and **AI-assisted Software Developer** from Pakistan, passionate about turning concepts into robust, end-to-end systems. I specialize in **system integration**, **workflow automation**, **API orchestration**, and building practical applications that solve real problems.
 
-My development philosophy revolves around **System Integration, Workflow Orchestration, and Smart Engineering**. Rather than getting bogged down in repetitive syntax, I actively embrace modern AI-assisted workflows and LLMs to accelerate development, debug efficiently, and focus on the bigger picture: designing robust architectures and delivering real-world solutions. 
+My philosophy: Use modern AI tools (LLMs, code assistants) to accelerate prototyping and debugging—so I can focus on what matters most: clean architecture, seamless integrations, scalable workflows, and reliable delivery.
 
-I excel at taking a concept, structuring the project directories, wiring up the necessary APIs, and ensuring the final product runs seamlessly.
+🚀 Always excited to discuss system design, AI-powered automation, IoT integrations, or collaborative opportunities!
 
 ### 🛠️ Technical Arsenal
-* **Languages & Web:** Python, JavaScript, HTML, CSS, Next.js, PHP
-* **Desktop & UI Frameworks:** PyQt6, Eel, Custom JS/CSS Interfaces
-* **Mobile & IoT:** Flutter, ESP32, Raspberry Pi (Pico W)
-* **Databases & Cloud:** SQLite3, MySQL, MongoDB, Firebase, AWS S3
-* **AI & Automation:** Selenium, Gemini API, Hugging Face Models (Xttv2), Stable Diffusion
 
-### 💻 Featured Projects
+- **Languages & Web** → Python, JavaScript, HTML/CSS, Next.js, PHP  
+- **Desktop & UI** → PyQt6, Eel, Custom JS/CSS interfaces  
+- **Mobile & IoT** → Flutter (Dart), ESP32, Raspberry Pi (Pico W)  
+- **Databases & Cloud** → SQLite3, MySQL, MongoDB, Firebase Firestore, AWS S3  
+- **AI & ML** → Gemini API, Hugging Face models (XTTSv2), Stable Diffusion, model training (Grad-CAM, heatmaps)  
+- **Automation & Tools** → Selenium (with stealth techniques), MoviePy, YouTube/Pexels APIs, Blynk cloud  
 
-**AI & Automation Engineering**
-* **Next-Gen AI Video Agent:** End-to-end desktop pipeline (Eel UI) using Python, Gemini API for dynamic scripts, Kokoro TTS for audio, Stable Diffusion for visuals, and Moviepy for rendering.
-* **Automated Social Media Bots:** * *YouTube Shorts Bot:* Fetches trending data via YouTube API, extracts high-impact 3-7s clips, integrates Pexels API for imagery, and compiles 4K shorts via a PyQt6 interface.
-  * *Twitter Engagement Bot:* A PyQt6 app utilizing Selenium and Stealth Chrome for automated, non-repetitive keyword-based replies (handling 300+ daily interactions) without relying on official API keys.
-* **Next-Gen TTS Platform:** Integrated the Xttv2 model from Hugging Face for local voice cloning within a desktop application.
+### 🌟 Featured Projects
 
-**Full-Stack & Management Systems**
-* **School Management Application:** A comprehensive desktop system built with PyQt6 and SQLite3. Features include role-based access, automated Google Drive backups, multi-campus management, and dynamic fee structuring.
-* **Logistics & Shipment Backend:** A complex backend architecture partially deployed on a VPS. Integrated Raspberry Pi cameras for package scanning, AWS S3, Firebase Firestore, and custom APIs serving distinct mobile apps for drivers, merchants, and admins.
-* **Web Portfolios & E-Commerce:** Developed multiple web platforms including a live Next.js/MongoDB portfolio, static React/HTML/CSS advertisement sites, and a PHP/MySQL-based shopping store.
+#### AI & Automation Engineering
+- **Next-Gen AI Video Agent**  
+  End-to-end desktop pipeline (Eel UI) that generates scripts (Gemini API), voiceovers (Kokoro TTS), images (Stable Diffusion), and composes videos (MoviePy).  
+- **YouTube Auto Shorts Generator**  
+  PyQt6 app: Fetches videos via YouTube Data API, extracts/edits short clips (3–7s), pulls topic-relevant images (Pexels API), and renders 4K shorts.  
+- **Next-Gen Local TTS**  
+  Desktop app running XTTSv2 (Hugging Face) for high-quality, local voice cloning and synthesis.  
+- **Web Automation Prototypes**  
+  Tools demonstrating browser automation with Selenium (stealth mode) for keyword-based engagement and data interaction—built for learning scalable, non-intrusive workflows.  
+- **Video Downloader & Processor**  
+  PyQt6 utility for downloading, duration-based splitting, and audio extraction.
 
-**IoT, Hardware & Mobile**
-* **Smart IoT Pet Feeder:** Built using an ESP32 microcontroller, servo motors, and the Blynk cloud platform for remote WiFi control via a mobile app.
-* **Mobile Applications (Flutter):** Developed a conceptual driving app mapping system and a Sugarcane Disease Detection app with an integrated AI model.
-* **Hardware Scripting:** Repurposed a Raspberry Pi Pico W to execute Arduino-based automation scripts (Rubber Ducky concepts).
+#### Full-Stack & Management Systems
+- **School Fee Management System**  
+  Comprehensive PyQt6 + SQLite3 desktop app: Role-based access, multi-campus/class support, dynamic fees/discounts, profit tracking, automated Google Drive backups.  
+- **Logistics & Shipment Backend** (In Progress)  
+  VPS-deployed Python backend: Raspberry Pi camera integration for QR scanning/activity logging, custom APIs for admin/merchant/driver panels, Firebase Firestore + AWS S3 storage.  
+- **Personal Portfolio**  
+  Modern Next.js site with MongoDB backend, deployed on Vercel.  
+- **E-Commerce Store**  
+  Full PHP/MySQL application: User auth, admin panel, products, cart, dummy checkout.
 
-**Networking & Data Analysis**
-* **ML Model Training:** Trained models on the Brixia dataset for COVID-19 heatmapping using Grad-CAM.
-* **Infrastructure & Security:** Hands-on experience with Windows Server (Active Directory, DHCP, DNS), Kali Linux networking tools (Nmap, Wireshark), and mid-level Cisco Packet Tracer simulations.
+#### IoT, Hardware & Mobile
+- **Smart Auto Pet Feeder**  
+  ESP32 + servo motors + Blynk cloud: Remote feeding control via mobile app over WiFi.  
+- **Flutter Mobile Apps**  
+  - Conceptual driving simulator with dummy maps and JSON backend.  
+  - Sugarcane Disease Detection app with integrated ML model and auth flows.  
+- **Hardware Scripting Demo**  
+  Raspberry Pi Pico W programmed to execute scripted automation payloads (Arduino IDE)—exploring low-level device control.
 
----
-📫 **Always open to discussing system architecture, AI automation, and innovative software solutions.**
+#### ML & Infrastructure
+- **COVID-19 Detection Model**  
+  Trained on Brixia dataset: Generated heatmaps and Grad-CAM visualizations for explainable AI insights.  
+- **Networking & Systems**  
+  Hands-on setup of Windows Server (Active Directory, DHCP, DNS, file sharing), Kali Linux tools (Nmap, Wireshark), and mid-level Cisco Packet Tracer simulations.
+
+### 📫 Let's Connect & Collaborate
+Open to freelance, full-time roles, open-source contributions, or just geeking out over architecture and AI workflows.
+
+📧 Email: ran0987654c21@gmail.com (or your preferred one)  
+🌍 Location: Pakistan  
+💼 Always building—let's talk systems!
+
+Thanks for visiting! ⭐ If any project sparks your interest, feel free to fork, star, or reach out.
