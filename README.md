@@ -58,7 +58,6 @@ My philosophy: Use modern AI tools (LLMs, code assistants) to accelerate prototy
 Open to freelance, full-time roles, open-source contributions, or just geeking out over architecture and AI workflows.
 
 📧 Email: ran0987654c21@gmail.com   
-
 🌍 Location: Pakistan  
 💼 Always building—let's talk systems!
 
